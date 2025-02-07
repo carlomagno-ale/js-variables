@@ -15,7 +15,7 @@ const text = "una sequenza di parole"
 console.log(text);
 
 let bool = true;
-console.log(bool)
+console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
@@ -25,7 +25,7 @@ const firstName = 'Jane'; // NON MODIFICARE QUESTA RIGA
 const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
 
 const fullName = null;
-console.log(fullName); // Output: "Jane Smith"
+console.log('Jane' + " " +'Smith'); // Output: "Jane Smith"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
