@@ -11,9 +11,11 @@ console.log(name);
 const number = 3;
 console.log(number);
 
-let text = "una sequenza di parole"
+const text = "una sequenza di parole"
 console.log(text);
 
+let bool = true;
+console.log(bool)
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
